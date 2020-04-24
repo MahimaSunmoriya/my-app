@@ -1,0 +1,26 @@
+{
+  "data":
+  [
+    {
+      "id":1,
+      "blogTitle":"Day 1 - My First Blog Post",
+      "postedOn": "Feburary 12, 2020",
+      "blogImage": "Image1.jpg",
+      "blogText":"Hey everyone, my name is Mahima Sunmoriya. I'm here creating this first reactJS website. Thus this is my first post on the react website."
+    },
+    {
+      "id":2,
+      "blogTitle":"Day 15 - What happened?",
+      "postedOn": "Feburary 27, 2020",
+      "blogImage": "Image2.jpg",
+      "blogText":"Well... it's been 15 days in the debugging bunker. The first signs of daylight are protruding through the lines of code.If you can read this then that must mean I am on the right track. Hopefully this will be completed in time."
+    },
+    {
+      "id":3,
+      "blogTitle":"Day 16 - Things are looking good",
+      "postedOn": "Feburary 28, 2020",
+      "blogImage": "Image3.jpg",
+      "blogText":"Oh yeah! Everything seems to be in order here. The site is up and running. Purring like a beaute. Hopefully things wil continue in this direction. Singing off for now..."
+    }
+  ]
+}
